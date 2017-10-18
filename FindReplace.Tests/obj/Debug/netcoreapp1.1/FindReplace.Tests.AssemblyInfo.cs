@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RockPS.Tests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FindReplace.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("RockPS.Tests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RockPS.Tests")]
+[assembly: System.Reflection.AssemblyProductAttribute("FindReplace.Tests")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FindReplace.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

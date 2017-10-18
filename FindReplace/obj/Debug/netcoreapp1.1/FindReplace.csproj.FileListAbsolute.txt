@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/Debug/netcoreapp1.1/FindReplace.deps.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/Debug/netcoreapp1.1/FindReplace.runtimeconfig.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/Debug/netcoreapp1.1/FindReplace.runtimeconfig.dev.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/obj/Debug/netcoreapp1.1/FindReplace.AssemblyInfo.cs
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/Debug/netcoreapp1.1/FindReplace.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/Debug/netcoreapp1.1/FindReplace.pdb
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/obj/Debug/netcoreapp1.1/FindReplace.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace/obj/Debug/netcoreapp1.1/FindReplace.pdb

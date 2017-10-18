@@ -3,11 +3,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RockPS")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FindReplace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Package Description")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("RockPS")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RockPS")]
+[assembly: System.Reflection.AssemblyProductAttribute("FindReplace")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FindReplace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

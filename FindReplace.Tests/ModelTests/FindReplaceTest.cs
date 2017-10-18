@@ -10,50 +10,19 @@ namespace FindReplace.Tests
   public class FindReplaceTests
   {
     [TestMethod]
-    public void IsWinner_ReturnsPlayer1_string()
+    public void FindAndReplace_ReplaceString_string()
     {
       //Arrange
-      RockPS newWinner = new RockPS("S","P");
-      var output = "Player1 Wins";
+      FindReplace newString = new FindReplace("I am walking my cat to the cathedral","cat", "dog");
+      var output = "I am walking my dog to the doghedral";
 
 
       //Act
-      string result = newWinner.IsWinner();
+      string result = newString.FindAndReplace();
 
       //Assert
       Assert.AreEqual(output, result);
-
-    }
-    [TestMethod]
-    public void IsWinner_ReturnsPlayer2_string()
-    {
-      //Arrange
-      RockPS newWinner = new RockPS("P","S");
-      var output = "Player2 Wins";
-
-
-      //Act
-      string result = newWinner.IsWinner();
-
-      //Assert
-      Assert.AreEqual(output, result);
-
-    }
-    [TestMethod]
-    public void Draw_NoOneWins_string()
-    {
-      //Arrange
-      RockPS newWinner = new RockPS("P","P");
-      var output = "Draw";
-
-
-      //Act
-      string result = newWinner.IsWinner();
-
-      //Assert
-      Assert.AreEqual(output, result);
-
-    }
 
     }
   }
+}

@@ -9523,16 +9523,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/RockPS.csproj",
-      "projectName": "RockPS",
-      "projectPath": "/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/RockPS.csproj",
-      "outputPath": "/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/obj/",
+      "projectUniqueName": "/Users/Guest/Desktop/FindReplace.Solution/FindReplace/FindReplace.csproj",
+      "projectName": "FindReplace",
+      "projectPath": "/Users/Guest/Desktop/FindReplace.Solution/FindReplace/FindReplace.csproj",
+      "outputPath": "/Users/Guest/Desktop/FindReplace.Solution/FindReplace/obj/",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
       "files": {
-        "lib/netcoreapp1.1/RockPS.dll": "/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/placeholder/netcoreapp1.1/RockPS.dll"
+        "lib/netcoreapp1.1/FindReplace.dll": "/Users/Guest/Desktop/FindReplace.Solution/FindReplace/bin/placeholder/netcoreapp1.1/FindReplace.dll"
       },
       "frameworks": {
         "netcoreapp1.1": {

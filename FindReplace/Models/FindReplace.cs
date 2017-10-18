@@ -1,45 +1,43 @@
 using System;
 using System.Collections.Generic;
 
+
+
 namespace FindReplace
 {
   public class FindReplace
   {
-    private string _p1;
-    private string _p2;
+    private string _str;
+    private string _word;
+    private string _replace;
 
-    public RockPS(string p1, string p2)
+    public FindReplace(string str, string word, string replace)
     {
-      _p1 = p1;
-      _p2 = p2;
+      _str = str;
+      _word = word;
+      _replace = replace;
     }
 
-    public string GetP1()
+    public string GetStr()
     {
-      return _p1;
+      return _str;
     }
-    public string GetP2()
+    public string GetWord()
     {
-      return _p2;
+      return _word;
+    }
+    public string GetReplace()
+    {
+      return _replace;
     }
 
-    public string IsWinner()
+    public string FindAndReplace()
     {
-      string[] result = {"Player1 Wins", "Player2 Wins", "Draw"};
-      string[] input = {"R", "P", "S"};
-
-      if((_p1 == input[0] && _p2 == input[2]) || (_p2 == input[0] && _p1 == input[1]) || (_p2 == input[1] && _p1 == input[2]))
+      foreach(char word in _str)
       {
-        return result[0];
+         _str = _str.Replace(_word, _replace);
       }
-      else if((_p1 == input[0] && _p2 == input[1]) || (_p1 == input[1] && _p2 == input[2]) || (_p2 == input[0] && _p1 == input[2]))
-      {
-        return result[1];
-      }
-      else
-      {
-        return result[2];
-      }
+      return _str;
     }
   }
 }

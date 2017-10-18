@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.Tests.deps.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.Tests.runtimeconfig.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/obj/Debug/netcoreapp1.1/FindReplace.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.Tests.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.Tests.pdb
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/bin/Debug/netcoreapp1.1/FindReplace.pdb
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/obj/Debug/netcoreapp1.1/FindReplace.Tests.dll
+/Users/Guest/Desktop/FindReplace.Solution/FindReplace.Tests/obj/Debug/netcoreapp1.1/FindReplace.Tests.pdb
