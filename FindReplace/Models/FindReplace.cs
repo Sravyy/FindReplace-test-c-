@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace RockPS
+namespace FindReplace
 {
-  public class RockPS
+  public class FindReplace
   {
     private string _p1;
     private string _p2;

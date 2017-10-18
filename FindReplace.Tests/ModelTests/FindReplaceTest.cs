@@ -1,13 +1,13 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 using System;
-using RockPS;
+using FindReplace;
 
-namespace RockPS.Tests
+namespace FindReplace.Tests
 {
 
   [TestClass]
-  public class RockPSTests
+  public class FindReplaceTests
   {
     [TestMethod]
     public void IsWinner_ReturnsPlayer1_string()
