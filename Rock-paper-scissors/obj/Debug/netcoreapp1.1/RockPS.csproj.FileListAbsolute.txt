@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/Debug/netcoreapp1.1/RockPS.deps.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/Debug/netcoreapp1.1/RockPS.runtimeconfig.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/Debug/netcoreapp1.1/RockPS.runtimeconfig.dev.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/obj/Debug/netcoreapp1.1/RockPS.AssemblyInfo.cs
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/Debug/netcoreapp1.1/RockPS.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/bin/Debug/netcoreapp1.1/RockPS.pdb
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/obj/Debug/netcoreapp1.1/RockPS.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors/obj/Debug/netcoreapp1.1/RockPS.pdb

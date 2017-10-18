@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.Tests.deps.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/obj/Debug/netcoreapp1.1/RockPS.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.Tests.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.Tests.pdb
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/bin/Debug/netcoreapp1.1/RockPS.pdb
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/obj/Debug/netcoreapp1.1/RockPS.Tests.dll
+/Users/Guest/Desktop/Rock-paper-scissors.Solutions/Rock-paper-scissors.Tests/obj/Debug/netcoreapp1.1/RockPS.Tests.pdb
